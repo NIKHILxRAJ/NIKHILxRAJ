@@ -1,16 +1,95 @@
-## Hi there 👋
+# Nikhil Raj
 
-<!--
-**NIKHILxRAJ/NIKHILxRAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Generative AI | Software Engineering
 
-Here are some ideas to get you started:
+Computer Science Engineering student focused on building web
+applications and exploring Generative AI, LLMs, and Agentic AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the stack, with a particular interest in
+backend development, APIs, databases, and AI-powered applications.
+
+---
+
+## About
+
+- 🎓 B.E. Computer Science & Engineering
+- 💻 Full-Stack development with JavaScript
+- 🤖 Currently exploring Generative AI and Agentic AI
+- ☁️ Learning AWS and cloud technologies
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Interested in backend systems and scalable applications
+
+---
+
+## Technical Skills
+
+### Languages
+C++ · JavaScript · Python
+
+### Frontend
+React · HTML · CSS · Tailwind CSS · Vite
+
+### Backend
+Node.js · Express.js · REST APIs
+
+### Databases
+MongoDB · MySQL · Redis
+
+### Cloud & Tools
+AWS · Docker · Git · GitHub · Postman
+
+### Generative AI
+LLMs · Prompt Engineering · RAG · Vector Databases ·
+LangChain · LangGraph · AI Agents
+
+### Core Concepts
+Data Structures & Algorithms · OOP · DBMS · Operating Systems ·
+Computer Networks · System Design
+
+---
+
+## Featured Projects
+
+### Coding Platform
+
+A MERN-based online coding platform for solving programming problems
+and executing user-submitted code in an isolated environment.
+
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Redis · Docker · JWT
+
+**Key Features**
+- JWT-based authentication using HTTP-only cookies
+- RESTful backend APIs
+- Visible and hidden test-case execution
+- Docker-based sandbox for untrusted code execution
+- Redis-based authentication handling
+- Problem and submission management
+
+---
+
+### VizuCode
+
+A coding visualization platform designed to make Data Structures and
+Algorithms easier to understand through interactive visualizations.
+
+**Focus Areas:** DSA · Algorithm Visualization · Backend APIs ·
+Payment Integration
+
+---
+
+## Currently Learning
+
+- Generative AI & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- LangChain & LangGraph
+- AI Agents & Agentic Workflows
+- Vector Databases
+- Model Context Protocol (MCP)
+- AWS & Cloud Technologies
+
+---
+
+## Let's Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) ·
+[GitHub](https://github.com/NIKHILxRAJ)
