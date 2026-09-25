@@ -69,11 +69,20 @@ and executing user-submitted code in an isolated environment.
 
 ### VizuCode
 
-A coding visualization platform designed to make Data Structures and
-Algorithms easier to understand through interactive visualizations.
+A coding visualization platform developed collaboratively by a
+3-member team to make Data Structures and Algorithms easier to
+understand through interactive visualizations.
 
-**Focus Areas:** DSA · Algorithm Visualization · Backend APIs ·
-Payment Integration
+**My Contribution:** Backend development, API flows, and payment integration.
+
+**Tech:** React · Node.js · Express.js · MongoDB · REST APIs
+
+**Key Areas**
+- Backend development
+- API design and integration
+- Payment integration
+- Backend business logic
+- Database interaction
 
 ---
 
