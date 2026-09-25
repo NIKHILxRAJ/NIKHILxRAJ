@@ -98,7 +98,4 @@ understand through interactive visualizations.
 
 ---
 
-## Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[GitHub](https://github.com/NIKHILxRAJ)
